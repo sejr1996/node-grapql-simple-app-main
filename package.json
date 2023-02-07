@@ -1,0 +1,22 @@
+{
+  "name": "graphql-code-tutorial",
+  "version": "1.0.0",
+  "description": "Node JS GraphQL - UNIR 2023",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Francisco Marín",
+  "contributors": [
+    "Alan Quimbita",
+    "Ezequiel Jaramillo",
+    "Paul Aguayo"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.1.2",
+    "graphql": "^15.5.1",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.12"
+  }
+}
